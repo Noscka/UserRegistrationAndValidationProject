@@ -1,3 +1,4 @@
+[![Workflow CodeQL Scan](https://github.com/Ruski1/UserRegistrationAndValidationProject/actions/workflows/main.yml/badge.svg)](https://github.com/Ruski1/UserRegistrationAndValidationProject/actions/workflows/main.yml)
 # User Registration And Validation Project Documentation
 This program is for a project #1. It lets the user create and log into accounts and the passwords are hashed with salt as to make it more secure. It also lets the user import a wide range of accounts from a plain text file with the format being:
 ```
